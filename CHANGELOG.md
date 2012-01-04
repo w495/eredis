@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v0.7.0.1
+
+* Change to binary transformations
+
 ## v0.7.0
 
 * Support added for pipelining requests, which allows batching
